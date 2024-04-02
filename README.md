@@ -1,7 +1,7 @@
 ## NAME :VIGNESH.M
 ## REGISTER NUMBER:212223040235
 
-#  Mean and variance of a discrete  distribution
+# EX-1  Mean and variance of a discrete  distribution
 
 
 # Aim : 
