@@ -1,8 +1,7 @@
+## NAME :VIGNESH.M
+## REGISTER NUMBER:212223040235
 
-                                                                                                                ```    NAME    : M.VIGNESH      
-                                                                                                                    REG NO  : 212223040235  ````                                                                                                                                                                                         
-
-### EX-1:  Mean and variance of a discrete  distribution
+#  Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -11,7 +10,7 @@ To find mean and variance of arrival of objects from the feeder using probabilit
 
 
 # Software required :  
- 
+
 Python and Visual components tool
 
 # Theory:
@@ -77,8 +76,9 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 # Output : 
-  ![image](https://github.com/Vignesh-M-07/Mean-and-Variance/assets/151615193/60a98968-44e5-439b-91de-a6257f7ac051)
+![image](https://github.com/Vignesh-M-07/Mean-and-Variance/assets/151615193/d26cb8ad-ce27-4968-bbdc-cd7f072f0606)
 
-#  Mean and variance of a discrete  distribution
 
+# Results :
+The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
